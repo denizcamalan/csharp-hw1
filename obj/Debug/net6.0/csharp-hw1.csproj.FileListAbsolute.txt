@@ -1,0 +1,15 @@
+/Users/denizcamalan/respitories/Projects/csharp-hw1/bin/Debug/net6.0/csharp-hw1
+/Users/denizcamalan/respitories/Projects/csharp-hw1/bin/Debug/net6.0/csharp-hw1.deps.json
+/Users/denizcamalan/respitories/Projects/csharp-hw1/bin/Debug/net6.0/csharp-hw1.runtimeconfig.json
+/Users/denizcamalan/respitories/Projects/csharp-hw1/bin/Debug/net6.0/csharp-hw1.dll
+/Users/denizcamalan/respitories/Projects/csharp-hw1/bin/Debug/net6.0/csharp-hw1.pdb
+/Users/denizcamalan/respitories/Projects/csharp-hw1/obj/Debug/net6.0/csharp-hw1.csproj.AssemblyReference.cache
+/Users/denizcamalan/respitories/Projects/csharp-hw1/obj/Debug/net6.0/csharp-hw1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizcamalan/respitories/Projects/csharp-hw1/obj/Debug/net6.0/csharp-hw1.AssemblyInfoInputs.cache
+/Users/denizcamalan/respitories/Projects/csharp-hw1/obj/Debug/net6.0/csharp-hw1.AssemblyInfo.cs
+/Users/denizcamalan/respitories/Projects/csharp-hw1/obj/Debug/net6.0/csharp-hw1.csproj.CoreCompileInputs.cache
+/Users/denizcamalan/respitories/Projects/csharp-hw1/obj/Debug/net6.0/csharp-hw1.dll
+/Users/denizcamalan/respitories/Projects/csharp-hw1/obj/Debug/net6.0/refint/csharp-hw1.dll
+/Users/denizcamalan/respitories/Projects/csharp-hw1/obj/Debug/net6.0/csharp-hw1.pdb
+/Users/denizcamalan/respitories/Projects/csharp-hw1/obj/Debug/net6.0/csharp-hw1.genruntimeconfig.cache
+/Users/denizcamalan/respitories/Projects/csharp-hw1/obj/Debug/net6.0/ref/csharp-hw1.dll
