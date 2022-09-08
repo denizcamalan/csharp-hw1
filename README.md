@@ -1,2 +1,2 @@
-# c--hw1
+# csharp-hw1
 console app
